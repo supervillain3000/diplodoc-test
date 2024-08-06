@@ -1,0 +1,19 @@
+title: networks
+href: index.yaml
+items:
+  - name: floating-ip
+    href: floating-ip.md
+  - name: network-create-delete
+    href: network-create-delete.md
+  - name: network-share
+    href: network-share.md
+  - name: port-attach-detach
+    href: port-attach-detach.md
+  - name: port-create-delete
+    href: port-create-delete.md
+  - name: router-attach-detach
+    href: router-attach-detach.md
+  - name: router-create-delete
+    href: router-create-delete.md
+  - name: subnet-create-delete
+    href: subnet-create-delete.md

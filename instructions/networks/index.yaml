@@ -1,0 +1,28 @@
+title: networks
+articles: true
+description: networks description
+links:
+  - title: Создание плавающего IP
+    description: Описание создания плавающего IP
+    href: floating-ip.md
+  - title: Создание и удаление сети
+    description: Описание создания и удаления сети
+    href: network-create-delete.md
+  - title: Предоставление доступа к сети
+    description: Описание предоставления доступа к сети
+    href: network-share.md
+  - title: Подключение/отключение порта
+    description: Описание подключения/отключения порта
+    href: port-attach-detach.md
+  - title: Создание/удаление порта
+    description: Описание создания и удаления порта
+    href: port-create-delete.md
+  - title: Подключение/отключение роутера
+    description: Описание подключения/отключения роутера
+    href: router-attach-detach.md
+  - title: Создание и удаление роутера
+    description: Описание создания и удаления роутера
+    href: router-create-delete.md
+  - title: Создание и удаление подсети
+    description: Описание создания и удаления подсети
+    href: subnet-create-delete.md

@@ -1,0 +1,28 @@
+title: Lbaas
+description: Lbaas description
+articles: true
+links:
+  - title: Создание listener
+    description: Описание создания listener
+    href: сreate-listener.md
+  - title: Создать проверку состяния
+    description: Описание создания проверки состяния
+    href: create-health-monitor.md
+  - title: Создание loadbalancer
+    description: Описание создания loadbalancer
+    href: create-loadbalancer.md
+  - title: Создание члена пула
+    description: Описание создания члена пула
+    href: create-member.md
+  - title: Создание пула
+    description: Описание создания пула
+    href: create-pool.md
+  - title: Удаление loadbalancer
+    description: Описание удаления loadbalancer
+    href: delete-loadbalancer.md
+  - title: Редирект https
+    description: Описание редиректа https
+    href: https-redirect.md
+  - title: SSL-сертификаты
+    description: Описание SSL-сертификатов
+    href: ssl-cert.md

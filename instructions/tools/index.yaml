@@ -1,0 +1,13 @@
+title: tools
+description: tools description
+articles: true
+links:
+  - title: Аутентификация в проекте
+    description: Описание аутентификации в проекте
+    href: openrc-auth.md
+  - title: Установка Openstack CLI
+    description: Описание установки Openstack CLI
+    href: openstack-cli-install.md
+  - title: Начало работы с Terraform
+    description: Описание начала работы с Terraform
+    href: terraform-quick-start.md

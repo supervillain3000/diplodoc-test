@@ -1,0 +1,19 @@
+title: Lbaas
+href: index.yaml
+items:
+  - name: Создание listener
+    href: create-listener.md
+  - name: Создатть проверку состяния
+    href: create-health-monitor.md
+  - name: create-loadbalancer
+    href: create-loadbalancer.md
+  - name: create-member
+    href: create-member.md
+  - name: create-pool
+    href: create-pool.md
+  - name: delete-loadbalancer
+    href: delete-loadbalancer.md
+  - name: https-redirect
+    href: https-redirect.md
+  - name: ssl-cert
+    href: ssl-cert.md

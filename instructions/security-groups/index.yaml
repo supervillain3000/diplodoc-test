@@ -1,0 +1,13 @@
+title: security-groups
+articles: true
+description: security-groups description
+links:
+  - title: Подключение/отключение группы безопасности
+    description: Описание подключения/отключения группы безопасности
+    href: security-group-attach-detach.md
+  - title: Создание и удаление группы безопасности
+    description: Описание создания и удаления группы безопасности
+    href: security-group-create-delete.md
+  - title: Создание и удаление правил группы безопасности
+    description: Описание создания и удаления правил группы безопасности
+    href: security-group-rules.md

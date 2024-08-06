@@ -1,0 +1,9 @@
+title: tools
+href: index.yaml
+items:
+  - name: openrc-auth
+    href: openrc-auth.md
+  - name: openstack-cli-install
+    href: openstack-cli-install.md
+  - name: terraform-quick-start
+    href: terraform-quick-start.md
