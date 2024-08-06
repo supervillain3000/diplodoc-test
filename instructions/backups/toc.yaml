@@ -1,0 +1,11 @@
+title: Backups
+items:
+  - name: Создание бэкапа
+    href: backup-create.md
+  - name: Удаление бэкапа
+    href: backup-delete.md
+  - name: Восстановление бэкапа
+    href: backup-restore.md
+  - name: Автоматическое резервное копирование
+    href: backup-schedule.md
+

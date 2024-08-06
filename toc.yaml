@@ -1,0 +1,26 @@
+title: PS Cloud Docs
+href: index.yaml
+items: 
+  - name: Начало работы 
+    href: quick-start/quick-start.md
+  - name: Инструкции
+    items:
+      - name: Compute
+        include:
+          path: instructions/compute/toc.yaml
+          mode: link
+
+      - name: Block Storage
+        include:
+          path: instructions/block-storage/toc.yaml
+          mode: link
+
+      - name: Images
+        include:
+          path: instructions/images/toc.yaml
+          mode: link
+
+      - name: Backups
+        include:
+          path: instructions/backups/toc.yaml
+          mode: link

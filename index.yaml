@@ -1,0 +1,12 @@
+title: PS Cloud Docs
+links:
+  - title: About
+    href: about.md
+  - title: Diplodoc page on index page
+    href: page.md
+  - title: YFM Structure on index page
+    href: anotherpage.md
+  - title: Начало работы
+    href: quick-start/quick-start.md
+  - title: Инструкции
+    href: instructions/

@@ -1,0 +1,15 @@
+title: Compute
+items:
+  - name: Создание ВМ
+    href: instance-create.md
+  - name: Удаление ВМ
+    href: instance-delete.md
+  - name: Управление ВМ
+    href: instance-managment.md
+  - name: Изменение конфигурации
+    href: instance-resize.md
+  - name: Cloud-init
+    href: cloud-init.md
+  - name: Конфигурации ВМ
+    href: flavors.md
+

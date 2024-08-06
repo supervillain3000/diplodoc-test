@@ -1,0 +1,13 @@
+title: Images
+items:
+  - name: Создание образа
+    href: image-create.md
+  - name: Удаление образа
+    href: image-delete.md
+  - name: Загрузка образа
+    href: image-download.md
+  - name: Подготовка образа
+    href: image-prepare.md
+  - name: Создание образа с помощью Packer
+    href: image-packer.md
+

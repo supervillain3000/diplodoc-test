@@ -1,0 +1,16 @@
+title: Block-storage
+items:
+  - name: Создание диска
+    href: volume-create.md
+  - name: Удаление диска
+    href: volume-delete.md
+  - name: Изменение типа и размера диска
+    href: volume-resize-change-type.md
+  - name: Подключение и отключение диска
+    href: volume-attach-detach.md
+  - name: Создание снэпшота
+    href: volume-snapshot.md
+  - name: Типы дисков
+    href: volumes.md
+  - name: Трансфер диска
+    href: volume-transfer.md
